@@ -1,1 +1,3 @@
 consol("Hello");
+consol("Hello");
+
