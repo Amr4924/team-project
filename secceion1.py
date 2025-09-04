@@ -7,6 +7,7 @@
 # int intger 12, 15, -110
 # bool boolean True, False
 # float fractions 3.3, 5.2, 0.012
+#end
 
 # print, input, type, upper, lower, capitalize, title, strip, lstrip, rstrip, split, join, swapcase, len
 
